@@ -20,7 +20,7 @@ Description of use:
     This is to be used with Z-Butt-1U-P1.
     
     
-### Z-Butt-1U-P2.stl
+### Z-Butt-1U-P2 V4-WithBase.stl
     Can be used to copy any 1U keycap.
     
     This is to be used with Z-Butt-1U-P1.

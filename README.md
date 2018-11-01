@@ -3,8 +3,10 @@
 # Z-Butt
 ## An Artisan keycap creation platform.
 
-Print these using whichever service or printer you find that produces very high resolution prints.
-I prefer Shapeways Smoothest Fine Detail Plastic option for Z-Butt-1U-P1 V3.stl, and any other option for the other two.
+If you have any questions, please contact me at:
+
+Discord: Zappycobra#0001
+Reddit: /u/imyownyear
 
 Description of use:
 
@@ -24,3 +26,5 @@ Description of use:
     Can be used to copy any 1U keycap.
     
     This is to be used with Z-Butt-1U-P1.
+
+....to be continued

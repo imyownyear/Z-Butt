@@ -16,21 +16,21 @@ Reddit: /u/imyownyear
 
 Description of use:
 
-### Z-Butt-1U-P1 V4.stl 
+### Z-Butt-1U-stem-cavity V4.stl 
     Is used to create the silicone mold that gives your keycap its butt (Stem included).
     
-    This is to be used with Z-Butt-1U-P2.
+    This is to be used with Z-Butt-1U-sculpting-base.
     
    
-### Z-Butt-1U-P2 V4.stl
+### Z-Butt-1U-sculpting-base V4.stl
     Can be used to sculpt a 1U artisan keycap out of your preffered medium (I use Epoxy clay, vaseline, and a brush).
     
-    This is to be used with Z-Butt-1U-P1.
+    This is to be used with Z-Butt-1U-stem-cavity.
     
     
-### Z-Butt-1U-P2 V4-WithBase.stl
+### Z-Butt-1U-master-base V4-WithBase.stl
     Can be used to copy any 1U keycap.
     
-    This is to be used with Z-Butt-1U-P1.
+    This is to be used with Z-Butt-1U-stem-cavity.
 
 ....to be continued

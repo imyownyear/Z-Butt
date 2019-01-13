@@ -14,7 +14,7 @@ Discord: Zappycobra#0001
 Reddit: /u/imyownyear
 
 
-Special thanks to Fiscal_rascal, Cardiactuna, Davness<?>, and CorruptedCaps for helping with testing, providing resources, and feedback.
+Special thanks to Fiscal_rascal, Cardiactuna, Davness<?>, CorruptedCaps, and morrae for helping with testing, providing resources, and feedback.
 
 
 Description of use:

@@ -14,6 +14,9 @@ Discord: Zappycobra#0001
 Reddit: /u/imyownyear
 
 
+Special thanks to Fiscal_rascal, Cardiactuna, davness, and CorruptedCaps for helping with testing, providing resource, and feedback.
+
+
 Description of use:
 
 ### Z-Butt-1U-stem-cavity V4.stl 

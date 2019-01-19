@@ -1,4 +1,4 @@
-![Z-Butt-1U Family](https://github.com/imyownyear/Z-Butt/blob/master/ZappyCappys-Z-Butt%20v4%20v3.png?raw=true)
+![Z-Butt-1U Family](https://github.com/imyownyear/Z-Butt/blob/master/img/ZappyCappys-Z-Butt%20v4%20v3.png?raw=true)
 
 # Z-Butt
 ## An Artisan keycap creation platform.

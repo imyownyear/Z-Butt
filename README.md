@@ -1,3 +1,5 @@
+Licensed under [Attribution-NonCommercial-ShareAlike 4.0 International]((CC BY-NC-SA 4.0)https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ![Z-Butt-1U Family](https://github.com/imyownyear/Z-Butt/blob/master/img/Zbutt-Family.png?raw=true)
 
 # Z-Butt

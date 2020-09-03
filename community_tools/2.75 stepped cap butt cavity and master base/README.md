@@ -1,5 +1,5 @@
-Created by: gooberpsycho
-Tool name: Stepped Caps Stem Cavity
+### Created by: gooberpsycho
+## Tool name: Stepped Caps Stem Cavity
 For use with:No Hassle Base or Lego
 Sizing:2.75u
 Description:Use as normal 2.75U Stem Cavity. Two No Hassle Base end pieces, one No Hassle Extender 2 are needed.

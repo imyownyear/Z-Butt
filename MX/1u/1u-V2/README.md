@@ -5,5 +5,7 @@ Licensed under: [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-N
 # Z-Butt V2
 ## An Artisan keycap creation platform.
 
-Please use 3mm Rods/Dowels with this version of Zbutt.
+Please use 3mm Rods/Dowels with this version of Zbutt as the Sprues.
+
+You can also glue on 5mmx1mm disc magnets to the bottom of the Master and Sculpting bases to use in combination with the Sculpting Helper.
 
